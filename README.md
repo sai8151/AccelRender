@@ -14,7 +14,7 @@ AccelRender is a mesmerizing project that transforms the real-time motion data f
 
 Check out this short video to see AccelRender in action:
 
-[![AccelRender Demo](https://img.youtube.com/vi/VrqdyimGj1c/0.jpg)](https://www.youtube.com/watch?v=VrqdyimGj1c)
+[![AccelRender Demo](https://img.youtube.com/vi/OwT8p057FQU/0.jpg)](https://www.youtube.com/watch?v=OwT8p057FQU)
 
 ## Getting Started
 
