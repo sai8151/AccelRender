@@ -28,8 +28,3 @@ To try AccelRender yourself, follow these steps:
 
 4. **Connect and Play:** Connect your Android device and computer to the same Wi-Fi network. Start the app, run the Blender script, and watch the magic unfold!
 
-## Join the Magic
-
-AccelRender is not just about technology; it's about creativity and exploration. Feel free to tinker with the code, create your own 3D models, and share your experiences with the community.
-
-Let's turn everyday motion into extraordinary art with AccelRender. Your Android device is your brush, and Blender is your canvas. Come and be part of the magic!
